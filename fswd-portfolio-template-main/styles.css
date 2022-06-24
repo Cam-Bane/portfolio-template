@@ -3,7 +3,7 @@
 :root {
   --primary-color: #3282B8;
   --primary-color-dark: #0F4C75;
-  --accent-color: #FFF8F0;
+  --accent-color: #f0f0ff;
 }
 
 html {
@@ -96,7 +96,7 @@ body {
 }
 
 h1 {
-  margin: 100px 0 0 0;
+  margin: 50px 0 0 0;
   font-size: 60px;
   font-weight: 800;
   color: var(--accent-color);
@@ -118,7 +118,7 @@ h1 {
 }
 
 .text-section {
-  background-color: var(--primary-color);
+  background-color: var(--primary-color-dark);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -132,7 +132,7 @@ h1 {
   background-color: var(--accent-color);
   color: var(--primary-color-dark);
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 400;
   font-size: 40px;
 }
 
