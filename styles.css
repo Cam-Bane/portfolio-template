@@ -220,7 +220,7 @@ footer {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
-  padding-top: 40px;
+  padding-top: 10px;
   }
 
 .tech-icon-list {
@@ -241,15 +241,15 @@ footer {
 .tech-icon-item {
   display: flex;
   flex-direction: column;
-  margin-right: 120px;
-  margin-bottom: 120px;
+  margin-right: 60px;
+  margin-bottom: 60px;
   align-items: center;
   }
 
 .tech-icon-item-end {
   display: flex;
   flex-direction: column;
-  margin-bottom: 120px;
+  margin-bottom: 60px;
   align-items: center;
   }
 
