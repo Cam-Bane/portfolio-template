@@ -158,8 +158,8 @@ aside {
 form {
   display: flex;
   flex-direction: column;
-  margin-left: 120px;
-  margin-right: 120px;
+  margin-left: 80px;
+  margin-right: 80px;
 }
 
 .input-field {
@@ -256,4 +256,4 @@ footer {
 span {
   margin-top: 5px;
   color: var(--primary-color-dark);
-  
+}
